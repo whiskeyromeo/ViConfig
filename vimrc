@@ -1,6 +1,7 @@
 set nocompatible
 execute pathogen#infect()
 call pathogen#helptags()
+syntax on
 " Control spaces/tabs
 set tabstop=4
 set shiftwidth=4
